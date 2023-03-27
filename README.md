@@ -6,8 +6,8 @@ Thanks to Guanghui Qui on Kodeco.com <3 <br>
 <img src="capture.gif"> <br>
 
 Learn about Tilemap <br>
-<img src="capture.png">
-<img src="spritesheet.png"?
+<img src="capture.jpg">
+<img src="Resources/tmw_desert_spacing.png">
 
 
 
